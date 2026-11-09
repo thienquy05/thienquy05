@@ -28,16 +28,14 @@
 
 ## 📊 At a glance
 
-| 🖥️ **1,000+** | 🚨 **15+** | 🏫 **250+** | ⚡ **< 5 ms** | 🎯 **+10 pts** |
-|:---:|:---:|:---:|:---:|:---:|
-| Windows & macOS endpoints managed (AD + Intune) | Security incidents handled in 4 months | Classrooms & offices supported (Tier 2) | Prompt-injection block time, down from 15-20 s | Block-rate gain in LLM red-team, zero false positives |
+**University of Toledo IT System Administrator and CS student seeking a Summer 2027 cybersecurity internship.**
 
-**What I bring**
+| 🛡️ Defend | 🤖 Secure AI | 🔧 Build |
+|---|---|---|
+| Manage **1,000+ Windows and macOS endpoints** with Active Directory and Intune. | Red-teamed **Sentra**, an AI phishing detector, with **41 real attack payloads**. | Designed the firewall workflow for **AEGIS**, a game that teaches students how AI agents get tricked. |
+| Responded to **15+ security incidents** in four months, including isolating 2 malware-infected devices. | Raised Sentra's block rate **10 percentage points** with zero false positives. Its filter blocks attacks in **under 5 ms** (was 15-20 s). | Built the AEGIS workers that process events and draft candidate rules. |
 
-- **Hands-on defense:** triage alerts, isolate malware-infected devices, patch and enforce compliance at university scale.
-- **AI security:** red-teamed an LLM phishing detector with 41 real attack payloads, then shipped the fix.
-- **Builder:** full-stack and Python projects, from a CAPTCHA-solving model to a firewall for AI agents.
-- **Reliable teammate:** escalation notes written so the next technician can reproduce the fix.
+**Jump to:** [Experience](#-experience) · [Projects](#-featured-projects) · [Skills](#-skills)
 
 ---
 
