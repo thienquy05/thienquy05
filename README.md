@@ -64,7 +64,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [AEGIS (Injection Arena)](https://github.com/MakeUC2026/AEGIS)
+### 🛡️ [AEGIS (Autonomous Agent Security Guard & Prompt Injection Firewall)](https://github.com/MakeUC2026/AEGIS)
 *MakeUC 2026 · 4-person team*
 
 A game that teaches how AI agents get tricked: students attack chatbots behind a rule-based agent firewall that allows, denies, holds for review or diverts each message and tool call. A teach-back quiz and a teacher dashboard show where a class struggles.
