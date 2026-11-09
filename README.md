@@ -42,7 +42,6 @@ On the AI side, I red-teamed an LLM phishing detector against 41 real attack pay
 | **[vuln-scanner](https://github.com/thienquy05/vuln-scanner)** | Vulnerability scanning tooling for identifying exposed services and misconfigurations. | `Python` |
 | **[BreakingModernCaptcha](https://github.com/thienquy05/BreakingModernCaptcha)** | Offensive-security research into the weaknesses of modern CAPTCHA implementations. | `Python` |
 | **[phishing-awareness-pro](https://github.com/thienquy05/phishing-awareness-pro)** | Security awareness training tool for helping users recognize phishing attempts. | `TypeScript` |
-| **[Zenith_Trading_Agent](https://github.com/thienquy05/Zenith_Trading_Agent)** | Multi-agent AI trading platform where a supervising "manager" agent reviews every action before execution — a human-in-the-loop control pattern applied to autonomous agents. | `Python` |
 | **[Portfolio](https://github.com/thienquy05/Portfolio)** | My personal site. | `TypeScript` |
 
 ---
